@@ -1,7 +1,5 @@
 # Calculator
 
-## [Demo](https://mahmoud-abuyoussef.github.io/Calculator/)
-
 ## Tech Stack
 
 - ### Languages
